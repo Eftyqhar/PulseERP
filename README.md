@@ -149,8 +149,8 @@ settings         -- Company details, currency, default thresholds
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/pulse-erp.git
-   cd pulse-erp
+   git clone https://github.com/Eftyqhar/PulseERP.git
+   cd PulseERP
    ```
 
 2. **Install dependencies**:
